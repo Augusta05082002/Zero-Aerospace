@@ -520,6 +520,7 @@ def baca_json():
 
     waktu = int(penampung[0]['waktu'])
     return waktu
+    
 
 def papan_score():
     global detik, penambah_detik
